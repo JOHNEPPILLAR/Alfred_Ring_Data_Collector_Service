@@ -9,7 +9,7 @@ jobs:
   security:
     name: 🛡️ Check for vulnerabilities
     runs-on: ubuntu-latest
-    # continue-on-error: true
+    continue-on-error: true
     steps:
       - name: Checkout repo
         uses: actions/checkout@master
