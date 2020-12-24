@@ -12,10 +12,10 @@
   "dependencies": {
     "alfred-base": "git://github.com/johneppillar/alfred_base_service",
     "alfred-helper": "git://github.com/johneppillar/alfred_helper",
-    "axios": "^0.21.0",
+    "axios": "^0.21.1",
+    "debug": "4.3.1",
     "dotenv": "^8.2.0",
     "fs": "^0.0.2",
-    "debug": "4.3.1",
     "moment": "^2.29.1",
     "ring-client-api": "^9.12.8"
   },
@@ -31,6 +31,6 @@
     "eslint-plugin-react": "^7.21.5",
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^2.2.1",
-    "snyk": "^1.437.2"
+    "snyk": "^1.437.3"
   }
 }
