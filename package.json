@@ -17,7 +17,7 @@
     "dotenv": "^8.2.0",
     "fs": "^0.0.2",
     "moment": "^2.29.1",
-    "ring-client-api": "^9.12.8"
+    "ring-client-api": "^9.13.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
