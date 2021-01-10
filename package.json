@@ -3,8 +3,8 @@
   "version": "1.1.6",
   "description": "ALFRED - Ring Data Collector Service",
   "author": "JP",
-  "license": "MIT",
   "main": "lib/server/server.js",
+  "license": "MIT",
   "scripts": {
     "start": "node lib/server/server.js",
     "local": "nodemon lib/server/server.js"
@@ -14,23 +14,21 @@
     "alfred-helper": "git://github.com/johneppillar/alfred_helper",
     "axios": "^0.21.1",
     "debug": "4.3.1",
-    "dotenv": "^8.2.0",
     "fs": "^0.0.2",
     "moment": "^2.29.1",
-    "ring-client-api": "^9.12.8"
+    "ring-client-api": "^9.14.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.16.0",
+    "eslint": "^7.17.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^7.1.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-jsx-a11y": "^6.4.1",
-    "eslint-plugin-prettier": "^3.3.0",
-    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "prettier": "^2.2.1",
-    "snyk": "^1.437.3"
+    "prettier": "^2.2.1"
   }
 }
